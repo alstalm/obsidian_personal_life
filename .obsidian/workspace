@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "eb082af9e21c5e58",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb2e07dd1e04ba97",
+        "type": "leaf",
+        "dimension": 73.26043737574552,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "songbook/Whiskey in the jar.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "b085c457ed7cc6dd",
+        "type": "leaf",
+        "dimension": 26.73956262425447,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "songbook/Robbie Williams. Road to mandalay.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a25a852fe1b5af03",
+    "type": "split",
+    "children": [
+      {
+        "id": "f52f4ad852db5dcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3464e7e45c75269",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "47f1b379b6cf19af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "right": {
+    "id": "91f63eae329a1e45",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2cae43216938a00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f36227e5ba630ba2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "songbook/Whiskey in the jar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bb2e07dd1e04ba97",
+  "lastOpenFiles": [
+    "songbook/Dougie MacLean. Auld Lang Syne (by Robert Burns).md",
+    "songbook/Bob Marley. No, woman no cry.md",
+    "songbook/Whiskey in the jar.md",
+    "songbook/Fiddler's Green.md",
+    "Untitled/Поездка на Баренцево.md",
+    "songbook/Robbie Williams. Road to mandalay.md",
+    "Впечателния. Заметки.md",
+    "Songs/Robbie Williams - Road to mandalay.md",
+    "songbook/John Danver. Country Roads.md",
+    "songbook/Israel Kamakawiwoʻole.  Over the rainbow.md"
+  ]
+}

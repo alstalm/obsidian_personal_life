@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "eb082af9e21c5e58",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cbb6d0c718ad3b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb2e07dd1e04ba97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Фильмы/Королевство полной луны.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf8d0c5052ca0ecb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled/Поездка на Баренцево.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2170f16881ea919d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Фильмы/3000 лет желаний.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8dce5cfdf56df94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Фильмы/3000 лет желаний.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53b09de57d32bea9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a25a852fe1b5af03",
+    "type": "split",
+    "children": [
+      {
+        "id": "f52f4ad852db5dcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3464e7e45c75269",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47f1b379b6cf19af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ирониния",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "right": {
+    "id": "91f63eae329a1e45",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2cae43216938a00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f36227e5ba630ba2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Фильмы/Королевство полной луны.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "280f1744ec39dae9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "templates:Insert template": false
+    }
+  },
+  "active": "bb2e07dd1e04ba97",
+  "lastOpenFiles": [
+    "Фильмы/3000 лет желаний.md",
+    "Фильмы/Королевство полной луны.md",
+    "Фильмы/Луна 2112.md",
+    "Фильмы/Сводка.md",
+    "Templates/00 template for movies.md",
+    "Фильмы/Луна 2112(1).md",
+    "00 Links/01 Working/01 CRPT Публикация карточек.md",
+    "Templates/02 template for coding.md",
+    "Templates/00-Общие заметки.md",
+    "Templates/01-CRPT.md"
+  ]
+}

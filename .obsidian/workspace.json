@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "eb082af9e21c5e58",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cbb6d0c718ad3b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53b09de57d32bea9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "e9930035d083453a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Фильмы/_Властелины времени.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a25a852fe1b5af03",
+    "type": "split",
+    "children": [
+      {
+        "id": "f52f4ad852db5dcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3464e7e45c75269",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47f1b379b6cf19af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#прощение",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "right": {
+    "id": "91f63eae329a1e45",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2cae43216938a00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f36227e5ba630ba2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Фильмы/_Властелины времени.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "280f1744ec39dae9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "e9930035d083453a",
+  "lastOpenFiles": [
+    "Templates/04 TAB and Lyrics.md",
+    "Daily notes/2023-03-25.md",
+    "Фильмы/Про кота (Терри Пратчет).md",
+    "2023-03-25.md",
+    "Templates/05 Daily note.md",
+    "Daily notes",
+    "Templates/00-Общие заметки.md",
+    "Templates/00 template for movies.md",
+    "diary",
+    "Фильмы/_Прекрасные дни в аранхуэсе. Les beaux jours d Aranjuez.2016.BDRip.1080p.md",
+    "Untitled 1",
+    "Тренировки",
+    "Фильмы/_Вечное сияние чистого разума (заполнить).md",
+    "Фильмы/_Космическая одиссея 2001 (заполнить).md",
+    "Фильмы/_Джентельмены (Гай Ричи) (заполнить).md",
+    "Templates/02 template for coding.md",
+    "Фильмы/Дикая груша.md",
+    "Фильмы/Королевство полной луны.md",
+    "Фильмы/Луна 2112.md",
+    "Фильмы/Сводка.md",
+    "Путешествия/Поездка на Баренцево.md",
+    "Templates/03 минутки встречи.md",
+    "Templates/01-CRPT.md",
+    "Untitled.canvas",
+    "Фильмы/3000 лет желаний.md",
+    "Фильмы/Списки лучших фильмов.md",
+    "Фильмы/Луна 2112(1).md",
+    "00 Links/01 Working/01 CRPT Публикация карточек.md"
+  ]
+}
