@@ -28,9 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "61366cad22869907",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Фильмы/_Однажды в Голливуде.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Фильмы/_Властелины времени.md",
+                "file": "Фильмы/_Однажды в Голливуде.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,8 +141,10 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e9930035d083453a",
+  "active": "61366cad22869907",
   "lastOpenFiles": [
+    "Фильмы/_Властелины времени.md",
+    "Фильмы/_Однажды в Голливуде.md",
     "Templates/04 TAB and Lyrics.md",
     "Daily notes/2023-03-25.md",
     "Фильмы/Про кота (Терри Пратчет).md",
