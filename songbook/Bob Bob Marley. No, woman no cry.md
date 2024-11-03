@@ -1,8 +1,6 @@
 **Music/Lyrics:** Bob Marley
 
 
-**OOh Starts:** (x2) |C|Em|F|C|F|E7|Am|F||
-
 No, woman, no cry.  
 No, woman, no cry.  
 No, woman, no cry.  

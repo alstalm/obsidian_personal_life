@@ -1,7 +1,7 @@
 **Music/Lyrics:** Harold Arlen and E.Y. Harburg
 **Version by**: Israel Kamakawiwoʻole
 ```java    
-      (Fadd9)    	(Cmaj7)			(G)
+      (Fadd9)    		(Cmaj7)				(G)
   0   1   2   3	 0   1   2   3	 0   1   2   3
 A |---|---|---|	A|---|-B-|---|	A|---|-B-|---|
 E |---|---|-G-|	E|---|---|---|	E|---|---|-G-|
