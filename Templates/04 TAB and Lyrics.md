@@ -53,9 +53,6 @@ With the wind in the ==\[A]== riggin to sing me a ==\[B]== song
 
 <iframe width="374" height="210" src="https://www.youtube.com/embed/cBp1uiGHu-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![](https://www.youtube.com/embed/cBp1uiGHu-M)
-
-
 ```java    
 
   0   1   2   3		 0   1   2   3		 0   1   2   3
