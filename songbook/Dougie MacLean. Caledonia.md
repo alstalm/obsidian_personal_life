@@ -28,6 +28,8 @@ I have traveled hard sometimes with conscience flying somewhere in the wind
 
 **Chorus**
 
+**Btidge**
+
 **Verse 4**
 Now I'm sitting here before the fire, the empty room, the forest choir  
 The flames that couldn't get any higher, well they've withered, now they've gone  
