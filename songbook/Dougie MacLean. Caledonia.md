@@ -40,7 +40,7 @@ For auld lang syne.
 <iframe width="374" height="210" src="https://www.youtube.com/embed/sMFnqj6aFwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ```java    
-   Intro:    
+   Intro, verse:    
 capo on 4-nd freed
 1 |-----------------------------|
 2 |----0-----0-----0------0-----|
@@ -49,16 +49,16 @@ capo on 4-nd freed
 5 |-5-----7-----9-----10--------|
 6 |-----------------------------|
 
-1 |--------------------0--------|
-2 |----0-----0-----0----0-------|
-3 |---0-0---0-0---0-0----0------|
-4 |--4---0-5---0-7---0--9-------|
+1 |--------------------0---0----|
+2 |----0-----0-----0----0---0---|
+3 |---0-0---0-0---0-0----0---0--|
+4 |--4---0-5---0-7---0----------|
 5 |-5-----7-----9-----10--------|
 6 |-----------------------------|
 ```
 
 ```js    
-capo on 2-nd freed
+corus
 	  [D]					 [A6]				
    1   2   3   4   5	  1   2   3	  
 F#|---|---|---|---|---| F#|---|---|---| 
