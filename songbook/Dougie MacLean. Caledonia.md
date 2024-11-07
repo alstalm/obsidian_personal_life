@@ -26,6 +26,8 @@ Lost the friends that I needed losing, found others on the way
 I have tried and I've kept on trying, stolen dreams, yes there's no denying
 I have traveled hard sometimes with conscience flying somewhere in the wind
 
+**Chorus**
+
 **Verse 4**
 Now I'm sitting here before the fire, the empty room, the forest choir  
 The flames that couldn't get any higher, well they've withered, now they've gone  
