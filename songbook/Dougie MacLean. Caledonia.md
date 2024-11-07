@@ -1,7 +1,7 @@
 
 **TUNE:** C-G-C-G-C-E. capo on 2-nd freed
-**Verse:** \[D] \[A6] \[D] \[G9] \[D] \[A6] \[G9] \[A6] \[D]
-**Chorus:** the same
+**Verse:** 
+**Chorus:** 
 
 I don't know if you can see
 The changes that have come over me
@@ -12,9 +12,9 @@ That make me think about where I came from
 And that's the reason why I seem
 So far away today
 
-[Chorus]  
+**Chorus**
 But let me tell you that I love you, that I think about you all the time  
-[Caledonia, you're calling me, and now I'm going home](https://genius.com/15140332/Dougie-maclean-caledonia/Caledonia-youre-calling-me-and-now-im-going-home)  
+Caledonia, you're calling me, and now I'm going home  
 But if I should become a stranger you know that it would make me more than sad  
 Caledonia's been everything I've ever had
 
