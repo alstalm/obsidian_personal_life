@@ -37,7 +37,7 @@ For auld lang syne.
 
 **\[Chorus]**
 **\[Chorus]**
-<iframe width="374" height="210" src="https://www.youtube.com/embed/sMFnqj6aFwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Ro1i2AVJ1Y?si=cRptdL-eev3WOVKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ```java    
    Intro, verse:    
