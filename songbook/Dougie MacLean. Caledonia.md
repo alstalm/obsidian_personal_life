@@ -9,18 +9,14 @@ In these last few days I've been afraid
 That I might drift away
 So I've been telling old stories, singing songs
 That make me think about where I came from
-And that's the [reason](https://www.definitions.net/definition/reason) why I seem
+And that's the reason why I seem
 So far away today
 
-[Chorus]
-Oh, but let me tell you that I love you
-That I [think](https://www.definitions.net/definition/think) about you all the time
-Caledonia you're [calling](https://www.definitions.net/definition/calling) me
-And now I'm [going](https://www.definitions.net/definition/going) home
-If I [should](https://www.definitions.net/definition/should) become a stranger
-You know that it [would](https://www.definitions.net/definition/would) make me more than sad
-Caledonia's been everything
-I've ever had
+[Chorus]  
+But let me tell you that I love you, that I think about you all the time  
+[Caledonia, you're calling me, and now I'm going home](https://genius.com/15140332/Dougie-maclean-caledonia/Caledonia-youre-calling-me-and-now-im-going-home)  
+But if I should become a stranger you know that it would make me more than sad  
+Caledonia's been everything I've ever had
 
 Oh and I have [moved](https://www.definitions.net/definition/moved) and I've kept on moving
 Proved the [points](https://www.definitions.net/definition/points) that I [needed](https://www.definitions.net/definition/needed) proving
