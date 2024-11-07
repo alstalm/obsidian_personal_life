@@ -2,6 +2,7 @@
 **TUNE:** C-G-C-G-C-E. capo on 2-nd freed
 **Verse:** 
 **Chorus:** 
+
 **Verse 1** 
 I don't know if you can see
 The changes that have come over me
@@ -28,7 +29,7 @@ I have traveled hard sometimes with conscience flying somewhere in the wind
 
 **Chorus**
 
-**Btidge**
+ **Btidge**
 
 **Verse 4**
 Now I'm sitting here before the fire, the empty room, the forest choir  
@@ -36,11 +37,8 @@ The flames that couldn't get any higher, well they've withered, now they've gone
 But I'm steady thinking, my way is clear and I know what I will do tomorrow  
 When the hands have shaken and the kisses flow, well I will disappear
 
-**Verse 4** 
-But let me tell you that I love you, that I think about you all the time  
-Caledonia, you're calling me, and now I'm going home  
-For if I should become a stranger you know that it would make me more than sad  
-Caledonia's been everything I've ever had
+**Chorus**
+
 
 
 ```java    
