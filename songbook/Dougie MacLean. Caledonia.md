@@ -16,7 +16,7 @@ So far away today
 
 **Chorus**
 But let me tell you that I love you, that I think about you all the time  
-Caledonia, you're calling me, and now I'm going home)  
+Caledonia, you're calling me, and now I'm going home
 But if I should become a stranger you know that it would make me more than sad  
 Caledonia's been everything I've ever had  
   
@@ -38,9 +38,6 @@ Caledonia, you're calling me, and now I'm going home
 For if I should become a stranger you know that it would make me more than sad  
 Caledonia's been everything I've ever had
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Ro1i2AVJ1Y?si=cRptdL-eev3WOVKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-https://www.youtube.com/watch?v=-skrVk5TYWU
 
 ```java    
    Intro, verse:    
@@ -74,3 +71,6 @@ X |---|---|---|---|---|
 E |---|---|---|---|-A-|
 ```
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Ro1i2AVJ1Y?si=cRptdL-eev3WOVKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-skrVk5TYWU?si=0d_Zu6MhIM2Ld1KB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
