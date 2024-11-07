@@ -21,15 +21,8 @@ But if I should become a stranger you know that it would make me more than sad
 Caledonia's been everything I've ever had  
   
 **Verse 3**
-I have moved and I've kept on moving, proved the points that I needed proving
 
-Lost the friends that I needed losing, found others on the way
 
-I have tried and I've kept on trying, stolen dreams, yes there's no denying*
-
-I
-
-[https://lyricstranslate.com/ru/dougie-maclean-caledonia-lyrics.html](https://lyricstranslate.com/ru/dougie-maclean-caledonia-lyrics.html)
 
 Now I'm sitting here before the fire, the empty room, the forest choir  
 The flames that couldn't get any higher, well they've withered, now they've gone  
