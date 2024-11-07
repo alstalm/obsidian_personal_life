@@ -4,11 +4,11 @@
 **Chorus:** the same
 
 I don't know if you can see
-The [changes](https://www.definitions.net/definition/changes) that have come over me
-In [these](https://www.definitions.net/definition/these) last few days I've been afraid
-That I [might](https://www.definitions.net/definition/might) drift away
-So I've been [telling](https://www.definitions.net/definition/telling) old stories, [singing](https://www.definitions.net/definition/singing) songs
-That make me [think](https://www.definitions.net/definition/think) about [where](https://www.definitions.net/definition/where) I came from
+The changes that have come over me
+In these last few days I've been afraid
+That I might drift away
+So I've been telling old stories, singing songs
+That make me think about where I came from
 And that's the [reason](https://www.definitions.net/definition/reason) why I seem
 So far away today
 
