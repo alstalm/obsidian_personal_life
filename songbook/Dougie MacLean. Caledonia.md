@@ -2,11 +2,13 @@
 **TUNE:** C-G-C-G-C-E. capo on 2-nd freed
 **Verse:** 
 **Chorus:** 
-
+**Verse 3** 
 I don't know if you can see
 The changes that have come over me
 In these last few days I've been afraid
 That I might drift away
+
+**Verse 3** 
 So I've been telling old stories, singing songs
 That make me think about where I came from
 And that's the reason why I seem
@@ -14,17 +16,11 @@ So far away today
 
 **Chorus**
 But let me tell you that I love you, that I think about you all the time  
-Caledonia, you're calling me, and now I'm going home  
-But if I should become a stranger you know that it would make me more than sad  
-Caledonia's been everything I've ever had
-
-[Chorus]  
-But let me tell you that I love you, that I think about you all the time  
-[Caledonia, you're calling me, and now I'm going home](https://genius.com/15140332/Dougie-maclean-caledonia/Caledonia-youre-calling-me-and-now-im-going-home)  
+Caledonia, you're calling me, and now I'm going home)  
 But if I should become a stranger you know that it would make me more than sad  
 Caledonia's been everything I've ever had  
   
-[Verse 3]  
+**Verse 3** 
 Now I'm sitting here before the fire, the empty room, the forest choir  
 The flames that couldn't get any higher, well they've withered, now they've gone  
 But I'm steady thinking, my way is clear and I know what I will do tomorrow  
