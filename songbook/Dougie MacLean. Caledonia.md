@@ -37,7 +37,7 @@ The flames that couldn't get any higher, well they've withered, now they've gone
 But I'm steady thinking, my way is clear and I know what I will do tomorrow  
 When the hands have shaken and the kisses flow, well I will disappear
 
-**Chorus**
+**Chorus** + **Bridge**
 
 
 
