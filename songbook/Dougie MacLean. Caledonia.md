@@ -37,6 +37,7 @@ For auld lang syne.
 
 **\[Chorus]**
 **\[Chorus]**
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Ro1i2AVJ1Y?si=cRptdL-eev3WOVKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ```java    
@@ -47,16 +48,13 @@ capo on 4-nd freed
 3 |---0-0---0-0---0-0----0-0---0--0--|
 4 |--4---0-5---0-7---0--9---9--------|
 5 |-5-----7-----9-----10-------------|
-6 |----------------------------------|
-
-	
+6 |----------------------------------|	
 ```
 
 ```js    
 corus
 	  [E]					 [A6]				
    1   2   3   4   5	  1   2   3	  
-
 G#|---|---|---|---|---| F#|---|---|---| 
 E |---|---|---|---|---| D |---|-E-|---|
 B |---|---|---|---|---| A |---|---|---| 
