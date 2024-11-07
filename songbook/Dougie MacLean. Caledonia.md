@@ -3,40 +3,44 @@
 **Verse:** \[D] \[A6] \[D] \[G9] \[D] \[A6] \[G9] \[A6] \[D]
 **Chorus:** the same
 
-**Verse 1:**
- Should ==[D]== auld acquaintance ==[A6]== be forgot,
-==[D]== And never brought to ==[G9]== mind?
-Should ==[D]== auld acquaintance ==[A6]== be forgot,
-And ==[G9]== auld ==[A6]== lang ==[D]== syne!
+I don't know if you can see
+The [changes](https://www.definitions.net/definition/changes) that have come over me
+In [these](https://www.definitions.net/definition/these) last few days I've been afraid
+That I [might](https://www.definitions.net/definition/might) drift away
+So I've been [telling](https://www.definitions.net/definition/telling) old stories, [singing](https://www.definitions.net/definition/singing) songs
+That make me [think](https://www.definitions.net/definition/think) about [where](https://www.definitions.net/definition/where) I came from
+And that's the [reason](https://www.definitions.net/definition/reason) why I seem
+So far away today
 
-**Chorus:**
-For auld lang syne, my dear,
-For auld lang syne.
-We'll tak a cup o' kindness yet,
-For auld lang syne.
+[Chorus]
+Oh, but let me tell you that I love you
+That I [think](https://www.definitions.net/definition/think) about you all the time
+Caledonia you're [calling](https://www.definitions.net/definition/calling) me
+And now I'm [going](https://www.definitions.net/definition/going) home
+If I [should](https://www.definitions.net/definition/should) become a stranger
+You know that it [would](https://www.definitions.net/definition/would) make me more than sad
+Caledonia's been everything
+I've ever had
 
+Oh and I have [moved](https://www.definitions.net/definition/moved) and I've kept on moving
+Proved the [points](https://www.definitions.net/definition/points) that I [needed](https://www.definitions.net/definition/needed) proving
+Lost the [friends](https://www.definitions.net/definition/friends) that I [needed](https://www.definitions.net/definition/needed) losing
+Found [others](https://www.definitions.net/definition/others) on the way
+Oh and I have [tried](https://www.definitions.net/definition/tried) and kept on trying
+Stolen [dreams](https://www.definitions.net/definition/dreams) yes there's no denying
+I have [traveled](https://www.definitions.net/definition/traveled) far with [conscience](https://www.definitions.net/definition/conscience) flying
+Somewhere with the wind
 
-We twa hae run about the braes,
-And pou'd the gowans fine;
-But we've wander'd mony a weary fit,
-Sin' auld lang syne.
+[Chorus]
 
-**\[Chorus]**
-
-And  We twa hae paidl'd in the burn,
-Frae morning sun till dine;
-O But seas between us braid hae roar'd
-Sin' auld lang syne.
-
-**\[Chorus]**
-
-And there's a hand, my trusty fere!
-And gie's a hand o' thine!
-And we'll tak a right gude-willie waught,
-For auld lang syne.
-
-**\[Chorus]**
-**\[Chorus]**
+Now I'm [sitting](https://www.definitions.net/definition/sitting) here [before](https://www.definitions.net/definition/before) the fire
+The [empty](https://www.definitions.net/definition/empty) room, the [forest](https://www.definitions.net/definition/forest) choir
+The [flames](https://www.definitions.net/definition/flames) that [could](https://www.definitions.net/definition/could) not get any higher
+They've [withered](https://www.definitions.net/definition/withered) now they've gone
+But I'm [steady](https://www.definitions.net/definition/steady) thinking my way is clear
+And I know what I will do tomorrow
+When the [hands](https://www.definitions.net/definition/hands) are [shaken](https://www.definitions.net/definition/shaken) and the [kisses](https://www.definitions.net/definition/kisses) flow
+Then I will disappear
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Ro1i2AVJ1Y?si=cRptdL-eev3WOVKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
