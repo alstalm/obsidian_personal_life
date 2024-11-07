@@ -21,9 +21,12 @@ But if I should become a stranger you know that it would make me more than sad
 Caledonia's been everything I've ever had  
   
 **Verse 3**
+have moved and I've kept on moving, proved the points that I needed proving
+Lost the friends that I needed losing, found others on the way
+I have tried and I've kept on trying, stolen dreams, yes there's no denying
+I have traveled hard sometimes with conscience flying somewhere in the wind
 
-
-
+**Verse 4**
 Now I'm sitting here before the fire, the empty room, the forest choir  
 The flames that couldn't get any higher, well they've withered, now they've gone  
 But I'm steady thinking, my way is clear and I know what I will do tomorrow  
@@ -35,7 +38,9 @@ Caledonia, you're calling me, and now I'm going home
 For if I should become a stranger you know that it would make me more than sad  
 Caledonia's been everything I've ever had
 
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/0Ro1i2AVJ1Y?si=cRptdL-eev3WOVKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Ro1i2AVJ1Y?si=cRptdL-eev3WOVKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+https://www.youtube.com/watch?v=-skrVk5TYWU
 
 ```java    
    Intro, verse:    
