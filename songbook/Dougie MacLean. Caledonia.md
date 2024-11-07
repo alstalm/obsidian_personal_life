@@ -2,7 +2,7 @@
 **TUNE:** C-G-C-G-C-E. capo on 2-nd freed
 **Verse:** 
 **Chorus:** 
-**Verse 3** 
+**Verse 1** 
 I don't know if you can see
 The changes that have come over me
 In these last few days I've been afraid
@@ -26,7 +26,7 @@ The flames that couldn't get any higher, well they've withered, now they've gone
 But I'm steady thinking, my way is clear and I know what I will do tomorrow  
 When the hands have shaken and the kisses flow, well I will disappear
 
-[Chorus]  
+**Verse 4** 
 But let me tell you that I love you, that I think about you all the time  
 Caledonia, you're calling me, and now I'm going home  
 For if I should become a stranger you know that it would make me more than sad  
