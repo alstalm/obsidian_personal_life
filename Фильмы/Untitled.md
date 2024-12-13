@@ -1,0 +1,1 @@
+https://www.kommersant.ru/doc/7167722
