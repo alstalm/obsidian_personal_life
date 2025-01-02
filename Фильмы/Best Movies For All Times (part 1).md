@@ -1,4 +1,4 @@
-# Индиана Джонс: В поисках утраченного ковчега / Raiders of the Lost Ark (1981)
+# [Индиана Джонс: В поисках утраченного ковчега / Raiders of the Lost Ark (1981)](https://www.kinopoisk.ru/film/339/)
 
 ![](https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/2b81e7f3-2f2b-490f-988e-c008e4276560/300x450)
 ## о чем:
@@ -15,7 +15,7 @@
 4. режиссер: Стивен Спилберг
 5. продюссер: Джордж Лукас
 ---
-# Назад в будущее / Back to the Future (1985)
+# [Назад в будущее / Back to the Future (1985)](https://www.kinopoisk.ru/film/476/)
 
 <img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/e6140838-5243-42d4-9b28-5667fd1c1ff2/1920x" width=300 >
 ## О чем:
@@ -68,7 +68,7 @@
 5. рейтинг цитируемости 8 из 10, «Hasta la vista, baby!»
 ---
 
-# На гребне волны / Point Break (1991)
+# [На гребне волны / Point Break (1991)](https://www.kinopoisk.ru/film/1990/)
 
 <img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/e5f2657e-c6d7-4b47-93e7-ddf827f09630/1920x" width=300>
 ## о чем:
