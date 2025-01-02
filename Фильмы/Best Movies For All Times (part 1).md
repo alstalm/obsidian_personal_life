@@ -70,7 +70,7 @@
 
 # На гребне волны / Point Break (1991)
 
-![](https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/e5f2657e-c6d7-4b47-93e7-ddf827f09630/1920x)
+<img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/e5f2657e-c6d7-4b47-93e7-ddf827f09630/1920x" width=300>
 ## о чем:
 о дружбе, долге, любви, страсти к серфингу и прыжкам с парашютом.
 ## краткая аннотация:
@@ -122,7 +122,6 @@
 ---
 
 # [Амели / Le Fabuleux destin d'Amélie Poulain (2001)](https://www.kinopoisk.ru/film/341/)
-
 ![](https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/a49739d0-a2da-4e53-83c0-116fe2d4cc27/300x450)
 
 ## о чем:
