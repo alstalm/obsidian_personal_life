@@ -85,8 +85,9 @@
 
 # Леон / Léon (1994)
 
+<img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/f0732653-60ec-45c2-9ca3-9bd1fec0a147/1920x" width=300>
 ## о чем:
-об одном киллере
+о киллере
 ## рейтинг культовости:
 
 7 из 10
