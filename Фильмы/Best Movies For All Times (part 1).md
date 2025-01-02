@@ -187,9 +187,7 @@
 
 
 # А
-<a href="url"><img src="![](https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/21c60f8a-f0b8-4514-91fe-619b5aa7e55f/720x)" align="left" height="48" width="48" ></a>
-
-![](https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/21c60f8a-f0b8-4514-91fe-619b5aa7e55f/720x)
+![](https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/0ca9a5b2-4648-4a59-b270-1b24ac653792/300x450)
 ## о чем:
 счетовод Уильям Блэйк ищет работу на Диком Западе, ввязывается в неприятности, получает статус разыскиваемого преступника и пулю в грудь. Героя пытается вылечить индеец, который ошибочно принимает его за поэта Уильяма Блэйка.
 ## краткая аннотация:
