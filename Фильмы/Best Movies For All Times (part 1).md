@@ -15,7 +15,7 @@
 4. режиссер: Стивен Спилберг
 5. продюссер: Джордж Лукас
 ---
-# [Назад в будущее / Back to the Future (1985)](https://www.kinopoisk.ru/film/476/)
+# ==[Назад в будущее / Back to the Future (1985)](https://www.kinopoisk.ru/film/476/)
 
 <img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/e6140838-5243-42d4-9b28-5667fd1c1ff2/1920x" width=300 >
 ## О чем:
@@ -32,8 +32,7 @@
 1. Знаковая картина восьмидесятых, во многом определившая эпоху.
 
 ---
-	
-# [Касабланка / Casablanca (1942)](https://www.kinopoisk.ru/film/330/)
+# ==[Касабланка / Casablanca (1942)](https://www.kinopoisk.ru/film/330/)
 
 ![](https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/1d316279-1d2c-4919-b210-83fe3510e529/300x450)
 ## О чем:
@@ -50,7 +49,8 @@
 3. фильм снятый во время 2WW
 
 ---
-# [Терминатор 2: Судный день / Terminator 2: Judgment Day (1991)](https://www.kinopoisk.ru/film/444/)
+# ==[Терминатор 2: Судный день / Terminator 2: Judgment Day (1991)](https://www.kinopoisk.ru/film/444/)
+
 <img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/ade65029-952f-488d-87b2-20c676970151/300x450" width=300>
 ## о чем:
 **О чем:** Два киборга, присланных из будущего, бьются за жизнь Джона Коннора, будущего лидера Сопротивления.
