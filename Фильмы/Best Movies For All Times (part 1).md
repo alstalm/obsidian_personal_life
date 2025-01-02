@@ -187,6 +187,7 @@
 
 
 # А
+<a href="url"><img src="![](https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/21c60f8a-f0b8-4514-91fe-619b5aa7e55f/720x)" align="left" height="48" width="48" ></a>
 
 ![](https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/21c60f8a-f0b8-4514-91fe-619b5aa7e55f/720x)
 ## о чем:
