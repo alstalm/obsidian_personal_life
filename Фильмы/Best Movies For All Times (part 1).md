@@ -151,7 +151,7 @@
 2. научиться смотреть внимательно,  переосмысливать увиденное, переосмсыслять понятое.
 ---
 
-# Бегущий по лезвию / Blade Runner (1982)](https://www.hi-fi.ru/kino/begushchy-po-lezviyu-1982/)
+# Бегущий по лезвию / Blade Runner (1982)
 
 ![](https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/ffa0729b-8587-47e8-b4de-3f8a2c61e218/300x450)
 ## о чем:
@@ -191,7 +191,7 @@
 ---
 
 
-# [Мертвец / Dead Man (1995)](https://www.hi-fi.ru/kino/mertvets-1995/)
+# Мертвец / Dead Man (1995)
 
 <img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/21c60f8a-f0b8-4514-91fe-619b5aa7e55f/1920x" width="300">
 ## о чем:
