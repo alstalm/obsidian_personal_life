@@ -67,7 +67,7 @@
 5. рейтинг цитируемости 8 из 10, «Hasta la vista, baby!»
 ---
 
-# [На гребне волны / Point Break (1991)](https://www.kinopoisk.ru/film/1990/)
+# ==[На гребне волны / Point Break (1991)](https://www.kinopoisk.ru/film/1990/)
 
 <img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/e5f2657e-c6d7-4b47-93e7-ddf827f09630/1920x" width=300>
 ## о чем:
@@ -102,8 +102,7 @@
 
 
 ---
-
-# [Солярис (1972)](https://www.kinopoisk.ru/film/43911/)
+# ==[Солярис (1972)](https://www.kinopoisk.ru/film/43911/)
 
 <img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/50ff52b2-5b75-44da-ad2f-906e6dafa7b7/1920x" width="300">
 ## о чем:
@@ -120,7 +119,7 @@
 
 ---
 
-# [Амели / Le Fabuleux destin d'Amélie Poulain (2001)](https://www.kinopoisk.ru/film/341/)
+# ==[Амели / Le Fabuleux destin d'Amélie Poulain (2001)](https://www.kinopoisk.ru/film/341/)
 ![](https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/a49739d0-a2da-4e53-83c0-116fe2d4cc27/300x450)
 
 ## о чем:
@@ -136,7 +135,7 @@
 3. нетипичные подходы в режиссуре и операторской работе
 
 ---
-# [Малхолланд Драйв / Mulholland Dr. (2001)](https://www.kinopoisk.ru/film/466/)
+# ==[Малхолланд Драйв / Mulholland Dr. (2001)](https://www.kinopoisk.ru/film/466/)
 
 ![](https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/477bd555-16ee-47aa-be90-6a252c189414/300x450)
 ## о чем: 
