@@ -1,4 +1,4 @@
-# ==[Индиана Джонс: В поисках утраченного ковчега / Raiders of the Lost Ark (1981)](https://www.kinopoisk.ru/film/339/)
+# [Индиана Джонс: В поисках утраченного ковчега / Raiders of the Lost Ark (1981)](https://www.kinopoisk.ru/film/339/)
 
 ![](https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/2b81e7f3-2f2b-490f-988e-c008e4276560/300x450)
 ## о чем:
@@ -15,7 +15,7 @@
 4. режиссер: Стивен Спилберг
 5. продюссер: Джордж Лукас
 ---
-# ==[Назад в будущее / Back to the Future (1985)](https://www.kinopoisk.ru/film/476/)
+# [Назад в будущее / Back to the Future (1985)](https://www.kinopoisk.ru/film/476/)
 
 <img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/e6140838-5243-42d4-9b28-5667fd1c1ff2/1920x" width=300 >
 ## О чем:
@@ -32,7 +32,7 @@
 1. Знаковая картина восьмидесятых, во многом определившая эпоху.
 
 ---
-# ==[Касабланка / Casablanca (1942)](https://www.kinopoisk.ru/film/330/)
+# [Касабланка / Casablanca (1942)](https://www.kinopoisk.ru/film/330/)
 
 ![](https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/1d316279-1d2c-4919-b210-83fe3510e529/300x450)
 ## О чем:
@@ -49,7 +49,7 @@
 3. фильм снятый во время 2WW
 
 ---
-# ==[Терминатор 2: Судный день / Terminator 2: Judgment Day (1991)](https://www.kinopoisk.ru/film/444/)
+# [Терминатор 2: Судный день / Terminator 2: Judgment Day (1991)](https://www.kinopoisk.ru/film/444/)
 
 <img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/ade65029-952f-488d-87b2-20c676970151/300x450" width=300>
 ## о чем:
@@ -67,7 +67,7 @@
 5. рейтинг цитируемости 8 из 10, «Hasta la vista, baby!»
 ---
 
-# ==[На гребне волны / Point Break (1991)](https://www.kinopoisk.ru/film/1990/)
+# [На гребне волны / Point Break (1991)](https://www.kinopoisk.ru/film/1990/)
 
 <img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/e5f2657e-c6d7-4b47-93e7-ddf827f09630/1920x" width=300>
 ## о чем:
@@ -102,7 +102,7 @@
 
 
 ---
-# ==[Солярис (1972)](https://www.kinopoisk.ru/film/43911/)
+# [Солярис (1972)](https://www.kinopoisk.ru/film/43911/)
 
 <img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/50ff52b2-5b75-44da-ad2f-906e6dafa7b7/1920x" width="300">
 ## о чем:
@@ -119,7 +119,7 @@
 
 ---
 
-# ==[Амели / Le Fabuleux destin d'Amélie Poulain (2001)](https://www.kinopoisk.ru/film/341/)
+# [Амели / Le Fabuleux destin d'Amélie Poulain (2001)](https://www.kinopoisk.ru/film/341/)
 ![](https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/a49739d0-a2da-4e53-83c0-116fe2d4cc27/300x450)
 
 ## о чем:
@@ -135,7 +135,7 @@
 3. нетипичные подходы в режиссуре и операторской работе
 
 ---
-# ==[Малхолланд Драйв / Mulholland Dr. (2001)](https://www.kinopoisk.ru/film/466/)
+# [Малхолланд Драйв / Mulholland Dr. (2001)](https://www.kinopoisk.ru/film/466/)
 
 ![](https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/477bd555-16ee-47aa-be90-6a252c189414/300x450)
 ## о чем: 
