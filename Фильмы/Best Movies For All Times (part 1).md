@@ -33,7 +33,7 @@
 
 ---
 	
-# Касабланка / Casablanca (1942)
+# [Касабланка / Casablanca (1942)](https://www.kinopoisk.ru/film/330/)
 
 ![](https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/1d316279-1d2c-4919-b210-83fe3510e529/300x450)
 ## О чем:
@@ -50,7 +50,7 @@
 3. фильм снятый во время 2WW
 
 ---
-# Терминатор 2: Судный день / Terminator 2: Judgment Day (1991)
+# [Терминатор 2: Судный день / Terminator 2: Judgment Day (1991)](https://www.kinopoisk.ru/film/444/)
 
 ![][https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/ade65029-952f-488d-87b2-20c676970151/300x450]
 ## о чем:
