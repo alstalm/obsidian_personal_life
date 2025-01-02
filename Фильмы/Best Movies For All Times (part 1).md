@@ -16,6 +16,8 @@
 5. продюссер: Джордж Лукас
 ---
 # Назад в будущее / Back to the Future (1985)
+
+<img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/e6140838-5243-42d4-9b28-5667fd1c1ff2/1920x" width=300 >
 ## О чем:
 Подросток Марти перемещается в пятидесятые годы, где встречает своих будущих родителей.
 
@@ -136,7 +138,7 @@
 3. нетипичные подходы в режиссуре и операторской работе
 
 ---
-# [Малхолланд Драйв / Mulholland Dr. (2001)](https://www.kinopoisk.ru/film/466/)
+# Малхолланд Драйв / Mulholland Dr. (2001)](https://www.kinopoisk.ru/film/466/)
 
 ![](https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/477bd555-16ee-47aa-be90-6a252c189414/300x450)
 ## о чем: 
