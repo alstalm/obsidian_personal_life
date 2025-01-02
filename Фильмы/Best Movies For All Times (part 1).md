@@ -187,7 +187,7 @@
 
 
 # А
-![](https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/21c60f8a-f0b8-4514-91fe-619b5aa7e55f/1920x/100X200)
+![](https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/0ca9a5b2-4648-4a59-b270-1b24ac653792/300x450)
 ## о чем:
 ## краткая аннотация:
 
