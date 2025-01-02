@@ -149,8 +149,8 @@
 2. научиться смотреть внимательно,  переосмысливать увиденное, переосмсыслять понятое.
 ---
 
-# А
-
+# ### [Бегущий по лезвию / Blade Runner (1982)](https://www.hi-fi.ru/kino/begushchy-po-lezviyu-1982/)
+![](https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/ffa0729b-8587-47e8-b4de-3f8a2c61e218/300x450)
 
 ## о чем:
 ## краткая аннотация:
