@@ -70,7 +70,7 @@
 
 # На гребне волны / Point Break (1991)
 
-![](https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/3283195b-ba13-46cb-b24c-6ff38bf4b5fe/300x450)
+![](https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/e5f2657e-c6d7-4b47-93e7-ddf827f09630/1920x)
 ## о чем:
 о дружбе, долге, любви, страсти к серфингу и прыжкам с парашютом.
 ## краткая аннотация:
@@ -85,7 +85,7 @@
 
 ---
 
-# Леон / Léon (1994)
+# [Леон / Léon (1994)](https://www.kinopoisk.ru/film/389/)
 
 <img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/f0732653-60ec-45c2-9ca3-9bd1fec0a147/1920x" width=300>
 ## о чем:
@@ -104,7 +104,7 @@
 
 ---
 
-# Солярис (1972)
+# [Солярис (1972)](https://www.kinopoisk.ru/film/43911/)
 
 <img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/50ff52b2-5b75-44da-ad2f-906e6dafa7b7/1920x" width="300">
 ## о чем:
