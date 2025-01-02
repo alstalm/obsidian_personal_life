@@ -138,7 +138,7 @@
 3. нетипичные подходы в режиссуре и операторской работе
 
 ---
-# Малхолланд Драйв / Mulholland Dr. (2001)](https://www.kinopoisk.ru/film/466/)
+# [Малхолланд Драйв / Mulholland Dr. (2001)](https://www.kinopoisk.ru/film/466/)
 
 ![](https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/477bd555-16ee-47aa-be90-6a252c189414/300x450)
 ## о чем: 
@@ -153,7 +153,7 @@
 2. научиться смотреть внимательно,  переосмысливать увиденное, переосмсыслять понятое.
 ---
 
-# Бегущий по лезвию / Blade Runner (1982)
+# [Бегущий по лезвию / Blade Runner (1982)](https://www.kinopoisk.ru/film/403/)
 
 ![](https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/ffa0729b-8587-47e8-b4de-3f8a2c61e218/300x450)
 ## о чем:
@@ -173,7 +173,7 @@
 
 ---
 
-# # Чунгкингский экспресс / Chung Hing sam lam (1994)
+# # [Чунгкингский экспресс / Chung Hing sam lam (1994)](https://www.kinopoisk.ru/film/22819/)
 
 <img src="http://i4.imageban.ru/out/2013/08/18/c7faa34820e846899dea0497a2604da4.jpg" width="300">
 
