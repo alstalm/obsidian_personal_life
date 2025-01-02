@@ -121,7 +121,7 @@
 
 ---
 
-# Амели / Le Fabuleux destin d'Amélie Poulain (2001)
+# [Амели / Le Fabuleux destin d'Amélie Poulain (2001)](https://www.kinopoisk.ru/film/341/)
 
 ![](https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/a49739d0-a2da-4e53-83c0-116fe2d4cc27/300x450)
 
@@ -173,7 +173,7 @@
 
 ---
 
-# # [Чунгкингский экспресс / Chung Hing sam lam (1994)](https://www.kinopoisk.ru/film/22819/)
+# [Чунгкингский экспресс / Chung Hing sam lam (1994)](https://www.kinopoisk.ru/film/22819/)
 
 <img src="http://i4.imageban.ru/out/2013/08/18/c7faa34820e846899dea0497a2604da4.jpg" width="300">
 
@@ -193,7 +193,7 @@
 ---
 
 
-# Мертвец / Dead Man (1995)
+# [Мертвец / Dead Man (1995)](https://www.kinopoisk.ru/film/2272/)
 
 <img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/21c60f8a-f0b8-4514-91fe-619b5aa7e55f/1920x" width="300">
 ## о чем:
