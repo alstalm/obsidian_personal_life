@@ -51,8 +51,7 @@
 
 ---
 # [Терминатор 2: Судный день / Terminator 2: Judgment Day (1991)](https://www.kinopoisk.ru/film/444/)
-
-![][https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/ade65029-952f-488d-87b2-20c676970151/300x450]
+<img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/ade65029-952f-488d-87b2-20c676970151/300x450" width=300>
 ## о чем:
 **О чем:** Два киборга, присланных из будущего, бьются за жизнь Джона Коннора, будущего лидера Сопротивления.
 ## краткая аннотация:
